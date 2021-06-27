@@ -1,13 +1,13 @@
 # javascript-quiz App
 
 ### Login
-![alt text](./login.PNG "Title")
+![alt text](./login.PNG "login")
 
 ### questions 
-![alt text](./questionslist.PNG "Title")
+![alt text](./questionlist.PNG "questions")
 
 ### Your result
-![alt text](./result.PNG "Title")
+![alt text](./result.PNG "result")
 
 
 
